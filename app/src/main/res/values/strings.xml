@@ -1,0 +1,19 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Image Trimmer</string>
+
+    <!-- Start Fragment -->
+    <string name="load_button_text">load</string>
+
+    <!-- Cropping Fragment -->
+    <string name="crop_button_text">trim</string>
+
+    <!-- Crop Result Fragment-->
+    <string name="save_button_text">save</string>
+    <string name="save_dialog_title">Save Cropped Image</string>
+    <string name="save_dialog_message">Please Edit file name.</string>
+    <string name="save_dialog_positive_button">OK</string>
+    <string name="save_dialog_negative_button">Cancel</string>
+
+    <string name="save_result_success_toast">Success to save file</string>
+    <string name="save_result_failed_toast">Failed to save file</string>
+</resources>
